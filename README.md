@@ -75,3 +75,8 @@ Isso deve mostrar automaticamente sua saída completa ao digitar:
 ```
 docker version
 ```
+
+# INICIANDO PROJETO COM ESLINT
+```
+npx eslint --init
+```
